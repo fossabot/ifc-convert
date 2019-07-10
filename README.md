@@ -1,4 +1,6 @@
 #Ifc converter for Node.js
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FbleungAtGTI%2Fifc-convert.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FbleungAtGTI%2Fifc-convert?ref=badge_shield)
+
 
 A simple promised based wrapper for the IfcConvert program for node.
 
@@ -43,3 +45,7 @@ ifcConvert('source.ifc', 'dest.dae', {path: 'path/to/bin'})
         //Done
     });
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FbleungAtGTI%2Fifc-convert.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FbleungAtGTI%2Fifc-convert?ref=badge_large)
